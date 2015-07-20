@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+  background: url(http://www.voiceable.org/wp-content/uploads/2012/01/Tech-technology-techtechnology.jpg);
+  font-family: 'Indie Flower', cursive;
+  color: white
+}
+
+img.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
